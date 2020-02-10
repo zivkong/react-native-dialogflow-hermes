@@ -10,7 +10,7 @@
     "jsrsasign": "^8.0.12",
     "react": "16.6.0-alpha.8af6728",
     "react-native": "0.57.3",
-    "react-native-dialogflow": "../"
+    "react-native-dialogflow-hermes": "../"
   },
   "devDependencies": {
     "metro-react-native-babel-preset": "0.48.1"

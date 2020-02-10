@@ -1217,7 +1217,7 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/../node_modules/react-native-dialogflow/ios/ApiAi",
+					"$(SRCROOT)/../node_modules/react-native-dialogflow-hermes/ios/ApiAi",
 					"$(SRCROOT)/../node_modules/react-native-voice/ios/Voice",
 				);
 				INFOPLIST_FILE = DialogflowExampleTests/Info.plist;
@@ -1245,7 +1245,7 @@
 				COPY_PHASE_STRIP = NO;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/../node_modules/react-native-dialogflow/ios/ApiAi",
+					"$(SRCROOT)/../node_modules/react-native-dialogflow-hermes/ios/ApiAi",
 					"$(SRCROOT)/../node_modules/react-native-voice/ios/Voice",
 				);
 				INFOPLIST_FILE = DialogflowExampleTests/Info.plist;
@@ -1274,7 +1274,7 @@
 				DEAD_CODE_STRIPPING = NO;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/../node_modules/react-native-dialogflow/ios/ApiAi",
+					"$(SRCROOT)/../node_modules/react-native-dialogflow-hermes/ios/ApiAi",
 					"$(SRCROOT)/../node_modules/react-native-voice/ios/Voice",
 				);
 				INFOPLIST_FILE = DialogflowExample/Info.plist;
@@ -1297,7 +1297,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/../node_modules/react-native-dialogflow/ios/ApiAi",
+					"$(SRCROOT)/../node_modules/react-native-dialogflow-hermes/ios/ApiAi",
 					"$(SRCROOT)/../node_modules/react-native-voice/ios/Voice",
 				);
 				INFOPLIST_FILE = DialogflowExample/Info.plist;
@@ -1327,7 +1327,7 @@
 				GCC_NO_COMMON_BLOCKS = YES;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/../node_modules/react-native-dialogflow/ios/ApiAi",
+					"$(SRCROOT)/../node_modules/react-native-dialogflow-hermes/ios/ApiAi",
 					"$(SRCROOT)/../node_modules/react-native-voice/ios/Voice",
 				);
 				INFOPLIST_FILE = "DialogflowExample-tvOS/Info.plist";
@@ -1363,7 +1363,7 @@
 				GCC_NO_COMMON_BLOCKS = YES;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/../node_modules/react-native-dialogflow/ios/ApiAi",
+					"$(SRCROOT)/../node_modules/react-native-dialogflow-hermes/ios/ApiAi",
 					"$(SRCROOT)/../node_modules/react-native-voice/ios/Voice",
 				);
 				INFOPLIST_FILE = "DialogflowExample-tvOS/Info.plist";
@@ -1398,7 +1398,7 @@
 				GCC_NO_COMMON_BLOCKS = YES;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/../node_modules/react-native-dialogflow/ios/ApiAi",
+					"$(SRCROOT)/../node_modules/react-native-dialogflow-hermes/ios/ApiAi",
 					"$(SRCROOT)/../node_modules/react-native-voice/ios/Voice",
 				);
 				INFOPLIST_FILE = "DialogflowExample-tvOSTests/Info.plist";
@@ -1433,7 +1433,7 @@
 				GCC_NO_COMMON_BLOCKS = YES;
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/../node_modules/react-native-dialogflow/ios/ApiAi",
+					"$(SRCROOT)/../node_modules/react-native-dialogflow-hermes/ios/ApiAi",
 					"$(SRCROOT)/../node_modules/react-native-voice/ios/Voice",
 				);
 				INFOPLIST_FILE = "DialogflowExample-tvOSTests/Info.plist";

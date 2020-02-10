@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { AppRegistry, Button, StyleSheet, Text, View } from 'react-native';
-import Dialogflow, { Dialogflow_V2 } from "react-native-dialogflow";
+import Dialogflow, { Dialogflow_V2 } from "react-native-dialogflow-hermes";
 
 
 export default class App extends Component {

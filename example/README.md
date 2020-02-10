@@ -2,8 +2,8 @@
 
 How to run:
 ```
-git clone https://github.com/innFactory/react-native-dialogflow.git
-cd react-native-dialogflow/example
+git clone https://github.com/innFactory/react-native-dialogflow-hermes.git
+cd react-native-dialogflow-hermes/example
 npm install
 react-native run-android
 ```

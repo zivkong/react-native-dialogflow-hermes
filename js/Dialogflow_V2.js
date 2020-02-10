@@ -166,8 +166,8 @@ export class Dialogflow_V2 {
         try {
             token = await googleAuth(clientEmail, privateKey, ['https://www.googleapis.com/auth/cloud-platform']);
         } catch (e) {
-            console.error("react-native-dialogflow: Authentication Error: " + e);
-            throw new Error("react-native-dialogflow: Authentication Error: " + e);
+            console.error("react-native-dialogflow-hermes: Authentication Error: " + e);
+            throw new Error("react-native-dialogflow-hermes: Authentication Error: " + e);
         } finally {
             return token;
         }
