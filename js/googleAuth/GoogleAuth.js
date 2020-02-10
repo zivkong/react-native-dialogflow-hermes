@@ -1,4 +1,4 @@
-var rs = require('jsrsasign');
+var rs = require('jsrsasign-hermes');
 import postAsForm from './postAsForm';
 
 
