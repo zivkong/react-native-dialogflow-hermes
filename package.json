@@ -1,8 +1,8 @@
 {
-  "name": "react-native-dialogflow",
-  "description": "A React-Native Bridge for the Google Dialogflow SDK",
+  "name": "react-native-dialogflow-hermes",
+  "description": "Forked from Anton Spöck (https://github.com/spoeck). Change jsrsasign to jsrsasign-hermes",
   "version": "3.2.2",
-  "author": "Anton Spöck (https://github.com/spoeck)",
+  "author": "Ziv Kong (https://github.com/zivkong)",
   "dependencies": {
     "jsrsasign-hermes": "^8.0.12"
   },
